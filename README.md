@@ -44,10 +44,10 @@ Multi-source cross-dataset evaluation:
 ![results](images/results_1.png)
 
 Limited-source cross-dataset evaluation:
-![results](images/results_2.png)
+![results](images/results_2.png | width=100)
 
 PAD performance vs. Computational complexity. More details can be found in paper.
-![results](images/computation_complexity.png)
+![results](images/computation_complexity.png | width=100)
 
 ## Models
 Four models pre-trained based on four cross-dataset experimental settings can be download via [google driver](https://drive.google.com/drive/folders/1E_u3nW3vux9f0gi2lNf5Kb5MVy2J1BWy?usp=sharing).
