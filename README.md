@@ -6,7 +6,7 @@
 This is the official repository of the paper: Face Presentation Attack Detection by Eacavating Causal Clues and Adapting Embedding Statistics, accepted at WACV 2024.. The paper can be found in [here](https://arxiv.org/abs/2308.14551).
 
 ## Pipeline Overview
-![overview](images/workflow)
+![overview](images/workflow.png)
 
 ## Data preparation
 Since the data in most used PAD datasets in our work are videos, we sample 25 frames in the average time interval of each video. Then, the face is extracted by using MTCNN. CSV files are generated for further training and evaluation. The format of the dataset CSV file is:
@@ -41,7 +41,7 @@ where test_data.csv contains image path and the corresponding label (bonafide or
 
 ## Results
 PAD performance vs. Computational complexity. More details can be found in paper.
-![cross_db](images/computation_complexity.pdf)
+![results](images/computation_complexity.pdf)
 
 ## Models
 Four models pre-trained based on four cross-dataset experimental settings can be download via [google driver](https://drive.google.com/drive/folders/1E_u3nW3vux9f0gi2lNf5Kb5MVy2J1BWy?usp=sharing).
