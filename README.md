@@ -1,8 +1,7 @@
-# CF-PAD
+# Face Presentation Attack Detection by Eacavating Causal Clues and Adapting Embedding Statistics
 
 
 ---
-## Note
 This is the official repository of the paper: Face Presentation Attack Detection by Eacavating Causal Clues and Adapting Embedding Statistics, accepted at WACV 2024. The paper can be found in [here](https://arxiv.org/abs/2308.14551).
 
 ## Pipeline Overview
