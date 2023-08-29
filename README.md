@@ -40,6 +40,12 @@ where test_data.csv contains image path and the corresponding label (bonafide or
 
 
 ## Results
+Multi-source cross-dataset evaluation:
+![results](images/results_1.png)
+
+Limited-source cross-dataset evaluation:
+![results](images/results_2.png)
+
 PAD performance vs. Computational complexity. More details can be found in paper.
 ![results](images/computation_complexity.png)
 
